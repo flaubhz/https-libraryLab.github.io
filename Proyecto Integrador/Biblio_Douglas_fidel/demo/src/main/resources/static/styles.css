@@ -1,0 +1,22 @@
+
+.container{
+    background-color: grey;
+
+}
+.title {
+    text-align: center;
+    margin-top: 20px;
+    background-color: black;
+    color: orange;
+    font-family: "Calibri Light";
+}
+
+.book-list {
+    background-color: dimgray;/* Cambia el color de fondo según tus preferencias */
+    padding: 10px; /* Agrega un espacio interno para separar los elementos */
+    font-family: "Calibri Light";
+}
+
+.book-list li {
+    color: orange;
+}
